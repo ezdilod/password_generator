@@ -18,7 +18,7 @@ random_let = random.choices(letters, k=nr_letters)
 random_sym = random.choices(symbols, k=nr_symbols)
 random_num = random.choices(numbers, k=nr_numbers)
 
-print(random_let + random_sym + random_num)
+""" print(random_let + random_sym + random_num) """
 
 
 # Hard Level - Order of characters randomised:
